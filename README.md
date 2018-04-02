@@ -1,6 +1,6 @@
-# Minecraft-April-Fool-2018
+# Minecraft-April-Fools-2018
 
-This repo only contains the extracted texture pack of the April Fool joke released by Mojang.
+This repo only contains the extracted texture pack of the April Fools joke released by Mojang.
 
 ALL THE TEXTURE FILES OF THE PACKS HERE BELONG TO MOJANG AB! I don't own them.
 
